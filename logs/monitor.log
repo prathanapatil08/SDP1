@@ -1,0 +1,4727 @@
+SDP System Monitoring Started
+Collecting metrics every 5 seconds...
+Press CTRL + C to stop monitoring.
+
+--------------------------------
+Time: 2026-11-13 12:20:17
+CPU Usage: 39.3 %
+Memory Usage: 95.5 %
+Available Memory: 350.05 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:20:22
+CPU Usage: 20.0 %
+Memory Usage: 90.9 %
+Available Memory: 705.49 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:20:27
+CPU Usage: 19.4 %
+Memory Usage: 91.0 %
+Available Memory: 703.75 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:20:32
+CPU Usage: 29.9 %
+Memory Usage: 96.6 %
+Available Memory: 267.11 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:20:37
+CPU Usage: 5.9 %
+Memory Usage: 94.3 %
+Available Memory: 441.41 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:20:42
+CPU Usage: 7.6 %
+Memory Usage: 91.7 %
+Available Memory: 644.27 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:20:47
+CPU Usage: 7.5 %
+Memory Usage: 89.1 %
+Available Memory: 846.86 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:20:52
+CPU Usage: 17.5 %
+Memory Usage: 88.8 %
+Available Memory: 874.71 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:20:57
+CPU Usage: 25.8 %
+Memory Usage: 88.9 %
+Available Memory: 861.07 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:21:02
+CPU Usage: 15.8 %
+Memory Usage: 88.5 %
+Available Memory: 893.43 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:21:07
+CPU Usage: 24.3 %
+Memory Usage: 88.3 %
+Available Memory: 908.43 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:21:12
+CPU Usage: 5.3 %
+Memory Usage: 89.9 %
+Available Memory: 790.24 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:21:17
+CPU Usage: 16.3 %
+Memory Usage: 91.8 %
+Available Memory: 637.61 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:21:22
+CPU Usage: 19.6 %
+Memory Usage: 91.0 %
+Available Memory: 705.07 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:21:27
+CPU Usage: 20.2 %
+Memory Usage: 91.2 %
+Available Memory: 688.92 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:21:32
+CPU Usage: 4.6 %
+Memory Usage: 93.3 %
+Available Memory: 522.94 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:21:37
+CPU Usage: 7.2 %
+Memory Usage: 94.2 %
+Available Memory: 448.61 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:21:42
+CPU Usage: 11.9 %
+Memory Usage: 94.5 %
+Available Memory: 428.39 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:21:47
+CPU Usage: 5.4 %
+Memory Usage: 95.2 %
+Available Memory: 375.93 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:21:52
+CPU Usage: 10.8 %
+Memory Usage: 94.8 %
+Available Memory: 405.25 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:21:57
+CPU Usage: 13.7 %
+Memory Usage: 94.0 %
+Available Memory: 470.12 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:22:02
+CPU Usage: 22.7 %
+Memory Usage: 94.3 %
+Available Memory: 443.68 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:22:07
+CPU Usage: 12.0 %
+Memory Usage: 93.9 %
+Available Memory: 479.16 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:22:12
+CPU Usage: 24.5 %
+Memory Usage: 93.3 %
+Available Memory: 521.39 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:22:17
+CPU Usage: 15.3 %
+Memory Usage: 92.6 %
+Available Memory: 573.38 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:22:22
+CPU Usage: 15.1 %
+Memory Usage: 91.0 %
+Available Memory: 703.16 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:22:27
+CPU Usage: 10.7 %
+Memory Usage: 92.6 %
+Available Memory: 572.87 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:22:32
+CPU Usage: 14.5 %
+Memory Usage: 93.2 %
+Available Memory: 530.22 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:22:37
+CPU Usage: 8.7 %
+Memory Usage: 92.2 %
+Available Memory: 606.02 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:22:42
+CPU Usage: 5.8 %
+Memory Usage: 91.0 %
+Available Memory: 698.1 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:22:47
+CPU Usage: 10.1 %
+Memory Usage: 91.3 %
+Available Memory: 675.23 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:22:52
+CPU Usage: 20.4 %
+Memory Usage: 94.3 %
+Available Memory: 447.12 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:22:57
+CPU Usage: 15.3 %
+Memory Usage: 93.2 %
+Available Memory: 526.49 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:23:02
+CPU Usage: 42.5 %
+Memory Usage: 94.0 %
+Available Memory: 469.72 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:23:07
+CPU Usage: 30.8 %
+Memory Usage: 95.5 %
+Available Memory: 351.44 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:23:12
+CPU Usage: 33.8 %
+Memory Usage: 95.6 %
+Available Memory: 341.36 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:23:17
+CPU Usage: 41.6 %
+Memory Usage: 96.7 %
+Available Memory: 260.82 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:23:22
+CPU Usage: 73.4 %
+Memory Usage: 96.4 %
+Available Memory: 277.44 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:23:27
+CPU Usage: 41.1 %
+Memory Usage: 92.8 %
+Available Memory: 560.87 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:23:32
+CPU Usage: 30.8 %
+Memory Usage: 91.0 %
+Available Memory: 704.71 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:23:37
+CPU Usage: 49.8 %
+Memory Usage: 91.2 %
+Available Memory: 682.5 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:23:42
+CPU Usage: 16.0 %
+Memory Usage: 90.5 %
+Available Memory: 740.72 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:23:47
+CPU Usage: 18.0 %
+Memory Usage: 91.1 %
+Available Memory: 692.14 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:23:52
+CPU Usage: 14.5 %
+Memory Usage: 91.1 %
+Available Memory: 691.79 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:23:57
+CPU Usage: 18.0 %
+Memory Usage: 91.6 %
+Available Memory: 657.56 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:24:02
+CPU Usage: 21.9 %
+Memory Usage: 92.7 %
+Available Memory: 568.35 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:24:07
+CPU Usage: 19.0 %
+Memory Usage: 93.0 %
+Available Memory: 546.36 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:24:12
+CPU Usage: 12.1 %
+Memory Usage: 93.0 %
+Available Memory: 546.79 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:24:17
+CPU Usage: 34.2 %
+Memory Usage: 93.1 %
+Available Memory: 540.41 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:24:22
+CPU Usage: 8.8 %
+Memory Usage: 93.3 %
+Available Memory: 520.06 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:24:27
+CPU Usage: 16.6 %
+Memory Usage: 94.2 %
+Available Memory: 451.21 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:24:32
+CPU Usage: 11.4 %
+Memory Usage: 93.7 %
+Available Memory: 491.91 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:24:37
+CPU Usage: 18.4 %
+Memory Usage: 93.4 %
+Available Memory: 517.92 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:24:42
+CPU Usage: 10.6 %
+Memory Usage: 94.2 %
+Available Memory: 453.75 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:24:47
+CPU Usage: 14.4 %
+Memory Usage: 93.9 %
+Available Memory: 472.62 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:24:52
+CPU Usage: 10.9 %
+Memory Usage: 94.0 %
+Available Memory: 471.2 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:24:57
+CPU Usage: 20.3 %
+Memory Usage: 94.0 %
+Available Memory: 466.11 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:25:02
+CPU Usage: 29.6 %
+Memory Usage: 94.1 %
+Available Memory: 459.94 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:25:07
+CPU Usage: 10.8 %
+Memory Usage: 94.1 %
+Available Memory: 461.11 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:25:12
+CPU Usage: 10.3 %
+Memory Usage: 93.8 %
+Available Memory: 484.74 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:25:17
+CPU Usage: 10.5 %
+Memory Usage: 93.6 %
+Available Memory: 495.66 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:25:22
+CPU Usage: 16.2 %
+Memory Usage: 93.3 %
+Available Memory: 518.89 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:25:27
+CPU Usage: 30.8 %
+Memory Usage: 94.3 %
+Available Memory: 440.89 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:25:32
+CPU Usage: 22.9 %
+Memory Usage: 94.0 %
+Available Memory: 469.61 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:25:37
+CPU Usage: 14.6 %
+Memory Usage: 94.1 %
+Available Memory: 457.5 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:25:42
+CPU Usage: 13.8 %
+Memory Usage: 94.6 %
+Available Memory: 421.45 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:25:47
+CPU Usage: 40.2 %
+Memory Usage: 93.5 %
+Available Memory: 508.15 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:25:52
+CPU Usage: 31.1 %
+Memory Usage: 94.8 %
+Available Memory: 406.26 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:25:57
+CPU Usage: 30.3 %
+Memory Usage: 94.7 %
+Available Memory: 409.25 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:26:02
+CPU Usage: 14.6 %
+Memory Usage: 94.8 %
+Available Memory: 403.65 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:26:07
+CPU Usage: 20.2 %
+Memory Usage: 94.9 %
+Available Memory: 396.11 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:26:12
+CPU Usage: 17.7 %
+Memory Usage: 93.9 %
+Available Memory: 472.18 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:26:17
+CPU Usage: 59.4 %
+Memory Usage: 94.9 %
+Available Memory: 394.64 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:26:22
+CPU Usage: 37.0 %
+Memory Usage: 96.3 %
+Available Memory: 289.93 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:26:27
+CPU Usage: 19.9 %
+Memory Usage: 93.3 %
+Available Memory: 525.76 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:26:32
+CPU Usage: 19.5 %
+Memory Usage: 91.1 %
+Available Memory: 691.3 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:26:37
+CPU Usage: 11.8 %
+Memory Usage: 91.0 %
+Available Memory: 701.32 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:26:42
+CPU Usage: 17.5 %
+Memory Usage: 91.6 %
+Available Memory: 656.61 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:26:47
+CPU Usage: 45.3 %
+Memory Usage: 86.5 %
+Available Memory: 1051.94 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:26:52
+CPU Usage: 13.0 %
+Memory Usage: 86.6 %
+Available Memory: 1041.86 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:26:57
+CPU Usage: 33.7 %
+Memory Usage: 86.8 %
+Available Memory: 1029.09 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:27:02
+CPU Usage: 22.1 %
+Memory Usage: 86.5 %
+Available Memory: 1049.4 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:27:07
+CPU Usage: 19.2 %
+Memory Usage: 87.7 %
+Available Memory: 960.68 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:27:12
+CPU Usage: 15.3 %
+Memory Usage: 88.1 %
+Available Memory: 929.22 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:27:17
+CPU Usage: 16.0 %
+Memory Usage: 88.0 %
+Available Memory: 935.54 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:27:22
+CPU Usage: 9.3 %
+Memory Usage: 88.4 %
+Available Memory: 904.04 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:27:27
+CPU Usage: 11.3 %
+Memory Usage: 88.2 %
+Available Memory: 917.23 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:27:32
+CPU Usage: 15.8 %
+Memory Usage: 88.4 %
+Available Memory: 904.55 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:27:37
+CPU Usage: 14.7 %
+Memory Usage: 88.6 %
+Available Memory: 887.82 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:27:42
+CPU Usage: 10.9 %
+Memory Usage: 88.9 %
+Available Memory: 862.68 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:27:47
+CPU Usage: 16.5 %
+Memory Usage: 88.8 %
+Available Memory: 868.87 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:27:52
+CPU Usage: 14.3 %
+Memory Usage: 89.0 %
+Available Memory: 855.83 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:27:57
+CPU Usage: 11.1 %
+Memory Usage: 88.5 %
+Available Memory: 899.75 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:28:02
+CPU Usage: 16.6 %
+Memory Usage: 88.4 %
+Available Memory: 903.48 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:28:07
+CPU Usage: 17.9 %
+Memory Usage: 88.9 %
+Available Memory: 866.28 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:28:12
+CPU Usage: 12.9 %
+Memory Usage: 88.7 %
+Available Memory: 884.37 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:28:17
+CPU Usage: 15.1 %
+Memory Usage: 88.0 %
+Available Memory: 935.82 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:28:22
+CPU Usage: 16.8 %
+Memory Usage: 88.2 %
+Available Memory: 916.84 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:28:27
+CPU Usage: 23.0 %
+Memory Usage: 89.3 %
+Available Memory: 835.3 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:28:32
+CPU Usage: 17.6 %
+Memory Usage: 89.3 %
+Available Memory: 830.25 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:28:37
+CPU Usage: 28.6 %
+Memory Usage: 89.3 %
+Available Memory: 836.57 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:28:42
+CPU Usage: 19.9 %
+Memory Usage: 89.2 %
+Available Memory: 843.17 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:28:47
+CPU Usage: 35.5 %
+Memory Usage: 89.7 %
+Available Memory: 803.03 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:28:52
+CPU Usage: 7.8 %
+Memory Usage: 89.6 %
+Available Memory: 814.12 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:28:57
+CPU Usage: 15.2 %
+Memory Usage: 87.1 %
+Available Memory: 1005.88 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:29:02
+CPU Usage: 14.2 %
+Memory Usage: 87.5 %
+Available Memory: 973.89 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:29:07
+CPU Usage: 11.5 %
+Memory Usage: 87.7 %
+Available Memory: 960.8 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:29:12
+CPU Usage: 12.9 %
+Memory Usage: 87.7 %
+Available Memory: 957.97 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:29:17
+CPU Usage: 23.5 %
+Memory Usage: 87.3 %
+Available Memory: 987.65 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:29:22
+CPU Usage: 16.6 %
+Memory Usage: 87.8 %
+Available Memory: 954.23 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:29:27
+CPU Usage: 18.6 %
+Memory Usage: 88.3 %
+Available Memory: 908.5 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:29:32
+CPU Usage: 30.2 %
+Memory Usage: 91.0 %
+Available Memory: 701.03 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 12:29:38
+CPU Usage: 21.2 %
+Memory Usage: 89.5 %
+Available Memory: 815.04 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:29:43
+CPU Usage: 11.0 %
+Memory Usage: 88.8 %
+Available Memory: 871.81 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:29:48
+CPU Usage: 14.0 %
+Memory Usage: 89.5 %
+Available Memory: 820.38 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:29:53
+CPU Usage: 5.1 %
+Memory Usage: 88.5 %
+Available Memory: 897.42 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:29:58
+CPU Usage: 8.2 %
+Memory Usage: 88.2 %
+Available Memory: 923.38 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:30:03
+CPU Usage: 10.7 %
+Memory Usage: 88.3 %
+Available Memory: 908.78 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:30:08
+CPU Usage: 10.1 %
+Memory Usage: 86.9 %
+Available Memory: 1021.69 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:30:13
+CPU Usage: 9.1 %
+Memory Usage: 86.3 %
+Available Memory: 1065.6 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:30:18
+CPU Usage: 5.5 %
+Memory Usage: 86.0 %
+Available Memory: 1090.82 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:30:23
+CPU Usage: 3.5 %
+Memory Usage: 86.7 %
+Available Memory: 1034.95 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:30:28
+CPU Usage: 5.3 %
+Memory Usage: 87.2 %
+Available Memory: 997.97 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:30:33
+CPU Usage: 1.8 %
+Memory Usage: 86.2 %
+Available Memory: 1072.4 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:30:38
+CPU Usage: 7.6 %
+Memory Usage: 88.8 %
+Available Memory: 871.83 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:30:43
+CPU Usage: 19.1 %
+Memory Usage: 89.7 %
+Available Memory: 799.8 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:30:48
+CPU Usage: 5.4 %
+Memory Usage: 90.1 %
+Available Memory: 774.79 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:30:53
+CPU Usage: 5.2 %
+Memory Usage: 89.3 %
+Available Memory: 835.79 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:30:58
+CPU Usage: 0.2 %
+Memory Usage: 88.8 %
+Available Memory: 869.95 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:31:03
+CPU Usage: 3.0 %
+Memory Usage: 88.0 %
+Available Memory: 938.43 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:31:08
+CPU Usage: 1.0 %
+Memory Usage: 88.2 %
+Available Memory: 922.03 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:31:13
+CPU Usage: 1.0 %
+Memory Usage: 86.5 %
+Available Memory: 1054.96 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:31:18
+CPU Usage: 8.6 %
+Memory Usage: 86.2 %
+Available Memory: 1073.85 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:31:23
+CPU Usage: 1.2 %
+Memory Usage: 86.2 %
+Available Memory: 1076.95 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:31:28
+CPU Usage: 1.5 %
+Memory Usage: 86.2 %
+Available Memory: 1074.03 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:31:33
+CPU Usage: 2.6 %
+Memory Usage: 86.4 %
+Available Memory: 1058.35 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:31:38
+CPU Usage: 4.4 %
+Memory Usage: 86.4 %
+Available Memory: 1056.07 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:31:43
+CPU Usage: 9.9 %
+Memory Usage: 88.2 %
+Available Memory: 916.27 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:31:48
+CPU Usage: 12.6 %
+Memory Usage: 86.1 %
+Available Memory: 1085.97 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:31:53
+CPU Usage: 9.4 %
+Memory Usage: 86.4 %
+Available Memory: 1058.58 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:31:58
+CPU Usage: 4.1 %
+Memory Usage: 86.2 %
+Available Memory: 1078.89 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:32:03
+CPU Usage: 7.2 %
+Memory Usage: 85.9 %
+Available Memory: 1096.46 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:32:08
+CPU Usage: 3.7 %
+Memory Usage: 86.1 %
+Available Memory: 1081.41 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:32:13
+CPU Usage: 2.9 %
+Memory Usage: 86.3 %
+Available Memory: 1065.96 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:32:18
+CPU Usage: 3.9 %
+Memory Usage: 84.6 %
+Available Memory: 1197.75 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:32:23
+CPU Usage: 5.0 %
+Memory Usage: 84.5 %
+Available Memory: 1204.24 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:32:28
+CPU Usage: 0.6 %
+Memory Usage: 84.5 %
+Available Memory: 1204.62 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:32:33
+CPU Usage: 2.4 %
+Memory Usage: 84.9 %
+Available Memory: 1177.78 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:32:38
+CPU Usage: 1.8 %
+Memory Usage: 84.8 %
+Available Memory: 1180.71 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:32:43
+CPU Usage: 6.8 %
+Memory Usage: 85.1 %
+Available Memory: 1158.7 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:32:48
+CPU Usage: 2.7 %
+Memory Usage: 85.1 %
+Available Memory: 1159.25 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:32:53
+CPU Usage: 1.8 %
+Memory Usage: 85.2 %
+Available Memory: 1156.5 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:32:58
+CPU Usage: 2.3 %
+Memory Usage: 85.2 %
+Available Memory: 1153.7 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:33:03
+CPU Usage: 1.2 %
+Memory Usage: 85.3 %
+Available Memory: 1146.38 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:33:08
+CPU Usage: 4.5 %
+Memory Usage: 85.0 %
+Available Memory: 1167.16 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:33:13
+CPU Usage: 3.3 %
+Memory Usage: 84.1 %
+Available Memory: 1238.61 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:33:18
+CPU Usage: 3.5 %
+Memory Usage: 84.0 %
+Available Memory: 1245.92 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:33:23
+CPU Usage: 5.1 %
+Memory Usage: 84.2 %
+Available Memory: 1228.8 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:33:28
+CPU Usage: 1.8 %
+Memory Usage: 84.0 %
+Available Memory: 1243.37 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:33:33
+CPU Usage: 1.2 %
+Memory Usage: 84.2 %
+Available Memory: 1233.62 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:33:38
+CPU Usage: 2.3 %
+Memory Usage: 84.2 %
+Available Memory: 1230.48 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:33:43
+CPU Usage: 3.5 %
+Memory Usage: 84.1 %
+Available Memory: 1238.81 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:33:48
+CPU Usage: 1.0 %
+Memory Usage: 84.0 %
+Available Memory: 1246.04 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:33:53
+CPU Usage: 0.6 %
+Memory Usage: 84.1 %
+Available Memory: 1237.96 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:33:58
+CPU Usage: 2.9 %
+Memory Usage: 84.1 %
+Available Memory: 1240.55 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:34:03
+CPU Usage: 3.9 %
+Memory Usage: 84.8 %
+Available Memory: 1184.3 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:34:08
+CPU Usage: 9.6 %
+Memory Usage: 85.5 %
+Available Memory: 1127.01 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:34:13
+CPU Usage: 5.8 %
+Memory Usage: 85.1 %
+Available Memory: 1164.29 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:34:18
+CPU Usage: 6.2 %
+Memory Usage: 84.6 %
+Available Memory: 1198.65 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:34:23
+CPU Usage: 3.1 %
+Memory Usage: 84.9 %
+Available Memory: 1173.73 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:34:28
+CPU Usage: 3.5 %
+Memory Usage: 85.0 %
+Available Memory: 1166.39 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:34:33
+CPU Usage: 3.5 %
+Memory Usage: 84.7 %
+Available Memory: 1192.2 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:34:38
+CPU Usage: 2.6 %
+Memory Usage: 84.8 %
+Available Memory: 1182.94 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:34:43
+CPU Usage: 1.7 %
+Memory Usage: 84.3 %
+Available Memory: 1219.57 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:34:48
+CPU Usage: 6.2 %
+Memory Usage: 84.4 %
+Available Memory: 1218.24 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:34:53
+CPU Usage: 4.1 %
+Memory Usage: 84.2 %
+Available Memory: 1231.39 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:34:58
+CPU Usage: 0.8 %
+Memory Usage: 84.2 %
+Available Memory: 1232.13 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:35:03
+CPU Usage: 3.7 %
+Memory Usage: 84.3 %
+Available Memory: 1224.85 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:35:08
+CPU Usage: 3.9 %
+Memory Usage: 85.0 %
+Available Memory: 1165.63 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:35:13
+CPU Usage: 11.0 %
+Memory Usage: 85.7 %
+Available Memory: 1113.16 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:35:18
+CPU Usage: 2.3 %
+Memory Usage: 86.2 %
+Available Memory: 1079.26 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:35:23
+CPU Usage: 2.2 %
+Memory Usage: 86.7 %
+Available Memory: 1038.79 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:35:28
+CPU Usage: 3.5 %
+Memory Usage: 86.5 %
+Available Memory: 1049.7 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:35:33
+CPU Usage: 6.6 %
+Memory Usage: 87.2 %
+Available Memory: 1000.51 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:35:38
+CPU Usage: 3.1 %
+Memory Usage: 86.4 %
+Available Memory: 1059.14 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:35:43
+CPU Usage: 4.3 %
+Memory Usage: 86.5 %
+Available Memory: 1048.31 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:35:48
+CPU Usage: 0.6 %
+Memory Usage: 85.9 %
+Available Memory: 1101.32 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:35:53
+CPU Usage: 2.1 %
+Memory Usage: 85.7 %
+Available Memory: 1111.98 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:35:58
+CPU Usage: 1.8 %
+Memory Usage: 85.2 %
+Available Memory: 1151.95 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:36:03
+CPU Usage: 1.0 %
+Memory Usage: 85.2 %
+Available Memory: 1149.82 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:36:08
+CPU Usage: 1.4 %
+Memory Usage: 85.3 %
+Available Memory: 1143.36 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:36:13
+CPU Usage: 10.7 %
+Memory Usage: 86.1 %
+Available Memory: 1084.04 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:36:18
+CPU Usage: 14.2 %
+Memory Usage: 87.5 %
+Available Memory: 971.83 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:36:23
+CPU Usage: 6.6 %
+Memory Usage: 86.3 %
+Available Memory: 1067.3 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:36:28
+CPU Usage: 33.1 %
+Memory Usage: 89.4 %
+Available Memory: 829.87 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:36:33
+CPU Usage: 14.5 %
+Memory Usage: 92.7 %
+Available Memory: 567.93 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:36:38
+CPU Usage: 13.1 %
+Memory Usage: 93.1 %
+Available Memory: 534.8 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:36:43
+CPU Usage: 15.0 %
+Memory Usage: 94.6 %
+Available Memory: 421.72 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:36:48
+CPU Usage: 5.9 %
+Memory Usage: 89.5 %
+Available Memory: 819.42 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:36:53
+CPU Usage: 6.0 %
+Memory Usage: 89.6 %
+Available Memory: 813.3 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:36:58
+CPU Usage: 19.2 %
+Memory Usage: 89.5 %
+Available Memory: 817.08 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:37:03
+CPU Usage: 12.6 %
+Memory Usage: 89.7 %
+Available Memory: 800.48 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:37:08
+CPU Usage: 18.4 %
+Memory Usage: 89.4 %
+Available Memory: 827.7 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:37:13
+CPU Usage: 15.6 %
+Memory Usage: 92.0 %
+Available Memory: 620.16 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:37:18
+CPU Usage: 19.3 %
+Memory Usage: 90.5 %
+Available Memory: 742.89 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:37:23
+CPU Usage: 8.8 %
+Memory Usage: 90.5 %
+Available Memory: 739.27 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:37:28
+CPU Usage: 9.5 %
+Memory Usage: 89.8 %
+Available Memory: 793.95 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:37:33
+CPU Usage: 10.1 %
+Memory Usage: 89.7 %
+Available Memory: 803.9 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:37:38
+CPU Usage: 19.6 %
+Memory Usage: 90.2 %
+Available Memory: 766.95 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:37:43
+CPU Usage: 13.3 %
+Memory Usage: 90.3 %
+Available Memory: 757.81 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:37:48
+CPU Usage: 1.4 %
+Memory Usage: 91.5 %
+Available Memory: 664.16 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:37:53
+CPU Usage: 3.1 %
+Memory Usage: 91.1 %
+Available Memory: 694.56 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:37:58
+CPU Usage: 6.4 %
+Memory Usage: 91.8 %
+Available Memory: 641.76 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:38:03
+CPU Usage: 8.8 %
+Memory Usage: 91.9 %
+Available Memory: 634.45 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:38:08
+CPU Usage: 7.4 %
+Memory Usage: 92.6 %
+Available Memory: 578.6 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:38:13
+CPU Usage: 1.2 %
+Memory Usage: 92.4 %
+Available Memory: 592.06 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:38:18
+CPU Usage: 3.9 %
+Memory Usage: 91.9 %
+Available Memory: 629.97 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:38:23
+CPU Usage: 4.8 %
+Memory Usage: 91.9 %
+Available Memory: 630.79 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:38:28
+CPU Usage: 5.6 %
+Memory Usage: 91.0 %
+Available Memory: 701.41 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:38:33
+CPU Usage: 0.4 %
+Memory Usage: 90.3 %
+Available Memory: 756.81 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:38:38
+CPU Usage: 2.3 %
+Memory Usage: 89.9 %
+Available Memory: 784.63 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:38:43
+CPU Usage: 1.6 %
+Memory Usage: 88.5 %
+Available Memory: 898.93 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:38:48
+CPU Usage: 2.6 %
+Memory Usage: 88.2 %
+Available Memory: 916.91 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:38:53
+CPU Usage: 4.3 %
+Memory Usage: 87.2 %
+Available Memory: 994.59 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:38:58
+CPU Usage: 1.0 %
+Memory Usage: 88.4 %
+Available Memory: 907.82 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:39:03
+CPU Usage: 1.2 %
+Memory Usage: 88.2 %
+Available Memory: 923.14 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:39:08
+CPU Usage: 0.8 %
+Memory Usage: 87.9 %
+Available Memory: 943.19 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:39:13
+CPU Usage: 0.6 %
+Memory Usage: 88.0 %
+Available Memory: 938.77 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:39:18
+CPU Usage: 1.6 %
+Memory Usage: 88.7 %
+Available Memory: 878.18 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:39:23
+CPU Usage: 3.7 %
+Memory Usage: 87.4 %
+Available Memory: 984.71 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:39:28
+CPU Usage: 3.7 %
+Memory Usage: 87.5 %
+Available Memory: 972.36 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:39:33
+CPU Usage: 1.0 %
+Memory Usage: 87.2 %
+Available Memory: 996.7 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:39:38
+CPU Usage: 0.6 %
+Memory Usage: 87.0 %
+Available Memory: 1016.61 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:39:43
+CPU Usage: 7.8 %
+Memory Usage: 87.1 %
+Available Memory: 1006.51 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:39:48
+CPU Usage: 1.6 %
+Memory Usage: 87.4 %
+Available Memory: 984.78 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:39:53
+CPU Usage: 1.4 %
+Memory Usage: 87.1 %
+Available Memory: 1008.6 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:39:58
+CPU Usage: 1.2 %
+Memory Usage: 86.8 %
+Available Memory: 1030.64 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:40:03
+CPU Usage: 1.4 %
+Memory Usage: 86.8 %
+Available Memory: 1025.57 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:40:08
+CPU Usage: 2.1 %
+Memory Usage: 86.8 %
+Available Memory: 1029.56 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:40:13
+CPU Usage: 1.0 %
+Memory Usage: 86.9 %
+Available Memory: 1022.57 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:40:18
+CPU Usage: 0.6 %
+Memory Usage: 86.7 %
+Available Memory: 1039.98 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:40:23
+CPU Usage: 3.2 %
+Memory Usage: 86.7 %
+Available Memory: 1034.59 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:40:28
+CPU Usage: 0.6 %
+Memory Usage: 86.8 %
+Available Memory: 1025.06 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:40:33
+CPU Usage: 2.5 %
+Memory Usage: 86.9 %
+Available Memory: 1021.68 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:40:38
+CPU Usage: 0.6 %
+Memory Usage: 86.5 %
+Available Memory: 1048.33 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:40:43
+CPU Usage: 1.2 %
+Memory Usage: 86.6 %
+Available Memory: 1045.86 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:40:48
+CPU Usage: 2.0 %
+Memory Usage: 86.8 %
+Available Memory: 1025.22 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:40:53
+CPU Usage: 0.8 %
+Memory Usage: 87.2 %
+Available Memory: 995.72 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:40:58
+CPU Usage: 1.5 %
+Memory Usage: 87.2 %
+Available Memory: 994.86 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:41:03
+CPU Usage: 0.8 %
+Memory Usage: 87.4 %
+Available Memory: 984.76 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:41:08
+CPU Usage: 2.1 %
+Memory Usage: 87.3 %
+Available Memory: 992.6 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:41:13
+CPU Usage: 1.4 %
+Memory Usage: 87.4 %
+Available Memory: 984.16 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:41:18
+CPU Usage: 1.0 %
+Memory Usage: 87.5 %
+Available Memory: 977.51 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:41:23
+CPU Usage: 1.4 %
+Memory Usage: 86.5 %
+Available Memory: 1048.38 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:41:28
+CPU Usage: 1.2 %
+Memory Usage: 86.8 %
+Available Memory: 1031.1 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:41:33
+CPU Usage: 0.6 %
+Memory Usage: 86.6 %
+Available Memory: 1045.43 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:41:38
+CPU Usage: 2.0 %
+Memory Usage: 86.6 %
+Available Memory: 1046.56 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:41:43
+CPU Usage: 2.9 %
+Memory Usage: 87.4 %
+Available Memory: 980.31 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:41:48
+CPU Usage: 1.0 %
+Memory Usage: 86.5 %
+Available Memory: 1055.11 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:41:53
+CPU Usage: 1.2 %
+Memory Usage: 84.1 %
+Available Memory: 1238.01 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:41:58
+CPU Usage: 1.2 %
+Memory Usage: 84.2 %
+Available Memory: 1232.45 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:42:03
+CPU Usage: 0.8 %
+Memory Usage: 84.3 %
+Available Memory: 1220.48 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:42:08
+CPU Usage: 0.8 %
+Memory Usage: 84.1 %
+Available Memory: 1242.42 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:42:13
+CPU Usage: 1.0 %
+Memory Usage: 84.2 %
+Available Memory: 1232.4 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:42:18
+CPU Usage: 1.0 %
+Memory Usage: 84.0 %
+Available Memory: 1247.46 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:42:23
+CPU Usage: 1.9 %
+Memory Usage: 83.9 %
+Available Memory: 1257.54 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:42:28
+CPU Usage: 2.0 %
+Memory Usage: 84.1 %
+Available Memory: 1242.66 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:42:33
+CPU Usage: 1.6 %
+Memory Usage: 84.1 %
+Available Memory: 1235.33 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:42:38
+CPU Usage: 1.4 %
+Memory Usage: 84.0 %
+Available Memory: 1243.13 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:42:43
+CPU Usage: 1.4 %
+Memory Usage: 84.0 %
+Available Memory: 1248.19 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:42:48
+CPU Usage: 3.3 %
+Memory Usage: 83.8 %
+Available Memory: 1259.88 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:42:53
+CPU Usage: 0.6 %
+Memory Usage: 84.0 %
+Available Memory: 1244.72 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:42:58
+CPU Usage: 22.5 %
+Memory Usage: 86.7 %
+Available Memory: 1038.67 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:43:03
+CPU Usage: 3.7 %
+Memory Usage: 87.4 %
+Available Memory: 983.57 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:43:08
+CPU Usage: 12.3 %
+Memory Usage: 86.4 %
+Available Memory: 1057.76 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:43:13
+CPU Usage: 8.0 %
+Memory Usage: 82.9 %
+Available Memory: 1329.41 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:43:18
+CPU Usage: 8.0 %
+Memory Usage: 82.2 %
+Available Memory: 1386.38 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:43:23
+CPU Usage: 7.4 %
+Memory Usage: 82.4 %
+Available Memory: 1373.11 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:43:28
+CPU Usage: 8.6 %
+Memory Usage: 81.8 %
+Available Memory: 1421.57 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:43:33
+CPU Usage: 11.8 %
+Memory Usage: 81.9 %
+Available Memory: 1413.05 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:43:38
+CPU Usage: 11.0 %
+Memory Usage: 81.6 %
+Available Memory: 1435.2 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:43:43
+CPU Usage: 8.7 %
+Memory Usage: 81.9 %
+Available Memory: 1407.83 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:43:48
+CPU Usage: 7.6 %
+Memory Usage: 81.8 %
+Available Memory: 1416.41 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:43:53
+CPU Usage: 27.8 %
+Memory Usage: 83.2 %
+Available Memory: 1309.78 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:43:58
+CPU Usage: 7.8 %
+Memory Usage: 86.8 %
+Available Memory: 1031.56 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:44:03
+CPU Usage: 12.4 %
+Memory Usage: 86.7 %
+Available Memory: 1033.3 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:44:08
+CPU Usage: 6.4 %
+Memory Usage: 88.0 %
+Available Memory: 934.73 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:44:13
+CPU Usage: 10.9 %
+Memory Usage: 88.4 %
+Available Memory: 905.76 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:44:18
+CPU Usage: 9.6 %
+Memory Usage: 88.4 %
+Available Memory: 902.6 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:44:23
+CPU Usage: 8.6 %
+Memory Usage: 89.0 %
+Available Memory: 856.95 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:44:28
+CPU Usage: 6.2 %
+Memory Usage: 85.5 %
+Available Memory: 1129.19 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:44:33
+CPU Usage: 24.0 %
+Memory Usage: 86.6 %
+Available Memory: 1041.02 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:44:38
+CPU Usage: 1.4 %
+Memory Usage: 86.1 %
+Available Memory: 1086.54 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:44:43
+CPU Usage: 0.6 %
+Memory Usage: 85.2 %
+Available Memory: 1153.93 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:44:48
+CPU Usage: 0.6 %
+Memory Usage: 85.2 %
+Available Memory: 1153.84 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:44:53
+CPU Usage: 0.8 %
+Memory Usage: 85.1 %
+Available Memory: 1160.04 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:44:58
+CPU Usage: 0.8 %
+Memory Usage: 84.8 %
+Available Memory: 1181.58 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:45:03
+CPU Usage: 0.0 %
+Memory Usage: 84.5 %
+Available Memory: 1208.59 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:45:08
+CPU Usage: 1.8 %
+Memory Usage: 85.0 %
+Available Memory: 1170.3 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:45:13
+CPU Usage: 0.4 %
+Memory Usage: 85.0 %
+Available Memory: 1165.31 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:45:18
+CPU Usage: 2.4 %
+Memory Usage: 85.3 %
+Available Memory: 1146.32 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:45:23
+CPU Usage: 0.2 %
+Memory Usage: 85.4 %
+Available Memory: 1134.14 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:45:28
+CPU Usage: 0.4 %
+Memory Usage: 85.4 %
+Available Memory: 1137.2 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:45:33
+CPU Usage: 7.2 %
+Memory Usage: 85.7 %
+Available Memory: 1114.89 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:45:38
+CPU Usage: 1.2 %
+Memory Usage: 85.4 %
+Available Memory: 1135.96 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:45:43
+CPU Usage: 1.4 %
+Memory Usage: 85.5 %
+Available Memory: 1127.79 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:45:48
+CPU Usage: 0.2 %
+Memory Usage: 85.4 %
+Available Memory: 1138.88 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:45:53
+CPU Usage: 0.4 %
+Memory Usage: 84.9 %
+Available Memory: 1179.25 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:45:58
+CPU Usage: 2.3 %
+Memory Usage: 86.3 %
+Available Memory: 1070.09 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:46:03
+CPU Usage: 1.8 %
+Memory Usage: 86.1 %
+Available Memory: 1081.41 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:46:08
+CPU Usage: 2.3 %
+Memory Usage: 85.9 %
+Available Memory: 1096.85 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:46:13
+CPU Usage: 1.2 %
+Memory Usage: 86.0 %
+Available Memory: 1087.99 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:46:18
+CPU Usage: 1.9 %
+Memory Usage: 85.4 %
+Available Memory: 1135.13 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:46:23
+CPU Usage: 0.8 %
+Memory Usage: 85.7 %
+Available Memory: 1113.45 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:46:28
+CPU Usage: 0.4 %
+Memory Usage: 85.7 %
+Available Memory: 1116.81 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:46:33
+CPU Usage: 2.5 %
+Memory Usage: 85.6 %
+Available Memory: 1124.79 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:46:38
+CPU Usage: 0.4 %
+Memory Usage: 85.7 %
+Available Memory: 1116.37 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:46:43
+CPU Usage: 2.3 %
+Memory Usage: 86.5 %
+Available Memory: 1052.31 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:46:48
+CPU Usage: 8.5 %
+Memory Usage: 85.6 %
+Available Memory: 1120.22 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:46:53
+CPU Usage: 0.6 %
+Memory Usage: 84.5 %
+Available Memory: 1208.07 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:46:58
+CPU Usage: 0.6 %
+Memory Usage: 83.8 %
+Available Memory: 1261.7 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:47:03
+CPU Usage: 2.6 %
+Memory Usage: 84.4 %
+Available Memory: 1215.41 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:47:08
+CPU Usage: 0.4 %
+Memory Usage: 84.4 %
+Available Memory: 1218.3 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:47:13
+CPU Usage: 1.0 %
+Memory Usage: 84.4 %
+Available Memory: 1215.52 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:47:18
+CPU Usage: 0.6 %
+Memory Usage: 84.3 %
+Available Memory: 1222.01 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:47:23
+CPU Usage: 0.6 %
+Memory Usage: 84.4 %
+Available Memory: 1216.27 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:47:28
+CPU Usage: 2.9 %
+Memory Usage: 84.4 %
+Available Memory: 1213.81 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:47:33
+CPU Usage: 1.6 %
+Memory Usage: 83.8 %
+Available Memory: 1264.27 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:47:38
+CPU Usage: 0.8 %
+Memory Usage: 83.7 %
+Available Memory: 1269.59 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:47:43
+CPU Usage: 0.6 %
+Memory Usage: 83.6 %
+Available Memory: 1276.38 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:47:48
+CPU Usage: 0.2 %
+Memory Usage: 83.6 %
+Available Memory: 1279.37 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:47:53
+CPU Usage: 1.7 %
+Memory Usage: 83.1 %
+Available Memory: 1317.35 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:47:58
+CPU Usage: 1.0 %
+Memory Usage: 83.2 %
+Available Memory: 1305.62 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:48:03
+CPU Usage: 0.0 %
+Memory Usage: 83.3 %
+Available Memory: 1303.88 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:48:08
+CPU Usage: 3.9 %
+Memory Usage: 82.5 %
+Available Memory: 1364.88 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:48:13
+CPU Usage: 0.4 %
+Memory Usage: 82.6 %
+Available Memory: 1355.02 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:48:18
+CPU Usage: 0.6 %
+Memory Usage: 82.7 %
+Available Memory: 1349.55 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:48:23
+CPU Usage: 1.2 %
+Memory Usage: 82.7 %
+Available Memory: 1345.23 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:48:28
+CPU Usage: 1.2 %
+Memory Usage: 82.8 %
+Available Memory: 1339.68 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:48:33
+CPU Usage: 1.2 %
+Memory Usage: 82.8 %
+Available Memory: 1339.95 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:48:38
+CPU Usage: 1.8 %
+Memory Usage: 82.9 %
+Available Memory: 1333.29 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:48:43
+CPU Usage: 0.6 %
+Memory Usage: 82.9 %
+Available Memory: 1329.88 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:48:48
+CPU Usage: 1.2 %
+Memory Usage: 82.8 %
+Available Memory: 1337.21 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:48:53
+CPU Usage: 0.4 %
+Memory Usage: 82.9 %
+Available Memory: 1336.17 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:48:58
+CPU Usage: 0.6 %
+Memory Usage: 83.2 %
+Available Memory: 1306.91 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:49:03
+CPU Usage: 0.6 %
+Memory Usage: 83.3 %
+Available Memory: 1301.45 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:49:08
+CPU Usage: 0.6 %
+Memory Usage: 83.1 %
+Available Memory: 1315.46 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:49:13
+CPU Usage: 0.8 %
+Memory Usage: 83.2 %
+Available Memory: 1307.05 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:49:18
+CPU Usage: 0.2 %
+Memory Usage: 83.2 %
+Available Memory: 1305.85 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:49:23
+CPU Usage: 0.2 %
+Memory Usage: 82.8 %
+Available Memory: 1338.78 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:49:28
+CPU Usage: 0.6 %
+Memory Usage: 82.9 %
+Available Memory: 1333.14 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:49:33
+CPU Usage: 0.4 %
+Memory Usage: 82.9 %
+Available Memory: 1329.15 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:49:38
+CPU Usage: 2.4 %
+Memory Usage: 82.7 %
+Available Memory: 1344.71 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:49:43
+CPU Usage: 1.4 %
+Memory Usage: 82.6 %
+Available Memory: 1358.3 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:49:48
+CPU Usage: 1.0 %
+Memory Usage: 82.3 %
+Available Memory: 1381.96 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:49:53
+CPU Usage: 0.6 %
+Memory Usage: 82.4 %
+Available Memory: 1371.04 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:49:58
+CPU Usage: 1.0 %
+Memory Usage: 82.4 %
+Available Memory: 1371.32 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:50:03
+CPU Usage: 0.6 %
+Memory Usage: 82.6 %
+Available Memory: 1358.31 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:50:08
+CPU Usage: 1.2 %
+Memory Usage: 82.5 %
+Available Memory: 1364.54 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:50:13
+CPU Usage: 0.8 %
+Memory Usage: 82.5 %
+Available Memory: 1367.43 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:50:18
+CPU Usage: 0.8 %
+Memory Usage: 82.6 %
+Available Memory: 1356.49 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:50:23
+CPU Usage: 0.4 %
+Memory Usage: 82.7 %
+Available Memory: 1351.86 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:50:28
+CPU Usage: 0.2 %
+Memory Usage: 82.4 %
+Available Memory: 1368.94 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:50:33
+CPU Usage: 6.6 %
+Memory Usage: 82.3 %
+Available Memory: 1376.41 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:50:38
+CPU Usage: 0.6 %
+Memory Usage: 82.1 %
+Available Memory: 1390.99 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:50:43
+CPU Usage: 0.4 %
+Memory Usage: 82.1 %
+Available Memory: 1391.8 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:50:48
+CPU Usage: 0.8 %
+Memory Usage: 82.3 %
+Available Memory: 1383.12 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:50:53
+CPU Usage: 0.2 %
+Memory Usage: 82.4 %
+Available Memory: 1373.75 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:50:58
+CPU Usage: 0.8 %
+Memory Usage: 82.3 %
+Available Memory: 1378.51 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:51:03
+CPU Usage: 0.4 %
+Memory Usage: 82.4 %
+Available Memory: 1372.86 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:51:08
+CPU Usage: 0.8 %
+Memory Usage: 82.4 %
+Available Memory: 1371.02 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:51:13
+CPU Usage: 1.8 %
+Memory Usage: 83.3 %
+Available Memory: 1302.05 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:51:18
+CPU Usage: 0.8 %
+Memory Usage: 83.3 %
+Available Memory: 1304.84 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:51:23
+CPU Usage: 0.6 %
+Memory Usage: 83.2 %
+Available Memory: 1309.61 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:51:28
+CPU Usage: 0.4 %
+Memory Usage: 83.2 %
+Available Memory: 1309.95 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:51:33
+CPU Usage: 0.4 %
+Memory Usage: 83.2 %
+Available Memory: 1310.16 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:51:38
+CPU Usage: 0.6 %
+Memory Usage: 83.1 %
+Available Memory: 1319.61 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:51:43
+CPU Usage: 1.4 %
+Memory Usage: 83.6 %
+Available Memory: 1277.17 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:51:48
+CPU Usage: 15.5 %
+Memory Usage: 86.2 %
+Available Memory: 1077.22 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:51:53
+CPU Usage: 8.4 %
+Memory Usage: 87.2 %
+Available Memory: 1000.86 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:51:58
+CPU Usage: 5.8 %
+Memory Usage: 86.6 %
+Available Memory: 1041.45 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:52:03
+CPU Usage: 5.3 %
+Memory Usage: 85.9 %
+Available Memory: 1100.28 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:52:08
+CPU Usage: 12.6 %
+Memory Usage: 86.0 %
+Available Memory: 1094.79 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:52:13
+CPU Usage: 1.4 %
+Memory Usage: 86.0 %
+Available Memory: 1092.96 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:52:18
+CPU Usage: 7.1 %
+Memory Usage: 87.0 %
+Available Memory: 1009.45 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:52:23
+CPU Usage: 3.9 %
+Memory Usage: 87.2 %
+Available Memory: 994.3 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:52:28
+CPU Usage: 8.9 %
+Memory Usage: 86.6 %
+Available Memory: 1046.52 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:52:33
+CPU Usage: 21.9 %
+Memory Usage: 88.5 %
+Available Memory: 894.24 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:52:38
+CPU Usage: 6.4 %
+Memory Usage: 88.4 %
+Available Memory: 906.02 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:52:43
+CPU Usage: 29.5 %
+Memory Usage: 87.4 %
+Available Memory: 978.11 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:52:48
+CPU Usage: 12.1 %
+Memory Usage: 82.2 %
+Available Memory: 1389.92 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:52:53
+CPU Usage: 2.8 %
+Memory Usage: 81.7 %
+Available Memory: 1429.28 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:52:58
+CPU Usage: 1.4 %
+Memory Usage: 79.1 %
+Available Memory: 1631.38 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:53:03
+CPU Usage: 5.8 %
+Memory Usage: 77.7 %
+Available Memory: 1740.56 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:53:08
+CPU Usage: 9.6 %
+Memory Usage: 77.8 %
+Available Memory: 1727.73 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:53:13
+CPU Usage: 1.0 %
+Memory Usage: 77.8 %
+Available Memory: 1731.44 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:53:18
+CPU Usage: 0.6 %
+Memory Usage: 76.9 %
+Available Memory: 1799.86 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:53:23
+CPU Usage: 1.8 %
+Memory Usage: 76.8 %
+Available Memory: 1807.22 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:53:28
+CPU Usage: 1.4 %
+Memory Usage: 77.0 %
+Available Memory: 1790.72 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:53:33
+CPU Usage: 1.0 %
+Memory Usage: 77.6 %
+Available Memory: 1745.0 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:53:38
+CPU Usage: 0.6 %
+Memory Usage: 77.6 %
+Available Memory: 1743.55 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:53:43
+CPU Usage: 0.2 %
+Memory Usage: 77.5 %
+Available Memory: 1751.24 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:53:48
+CPU Usage: 1.2 %
+Memory Usage: 77.2 %
+Available Memory: 1776.02 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:53:53
+CPU Usage: 0.8 %
+Memory Usage: 79.4 %
+Available Memory: 1607.97 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:53:58
+CPU Usage: 1.6 %
+Memory Usage: 78.9 %
+Available Memory: 1643.38 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:54:03
+CPU Usage: 0.8 %
+Memory Usage: 78.5 %
+Available Memory: 1678.49 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:54:08
+CPU Usage: 7.2 %
+Memory Usage: 77.9 %
+Available Memory: 1718.97 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:54:13
+CPU Usage: 7.2 %
+Memory Usage: 79.3 %
+Available Memory: 1609.21 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:54:18
+CPU Usage: 4.7 %
+Memory Usage: 78.9 %
+Available Memory: 1642.98 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:54:23
+CPU Usage: 1.2 %
+Memory Usage: 78.4 %
+Available Memory: 1679.64 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:54:28
+CPU Usage: 1.4 %
+Memory Usage: 78.6 %
+Available Memory: 1670.43 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:54:33
+CPU Usage: 7.0 %
+Memory Usage: 78.2 %
+Available Memory: 1699.45 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:54:38
+CPU Usage: 2.2 %
+Memory Usage: 78.3 %
+Available Memory: 1688.2 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:54:43
+CPU Usage: 0.8 %
+Memory Usage: 77.6 %
+Available Memory: 1746.81 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:54:48
+CPU Usage: 10.0 %
+Memory Usage: 78.0 %
+Available Memory: 1714.18 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:54:53
+CPU Usage: 4.2 %
+Memory Usage: 78.2 %
+Available Memory: 1700.96 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:54:58
+CPU Usage: 4.0 %
+Memory Usage: 78.7 %
+Available Memory: 1657.35 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:55:03
+CPU Usage: 5.3 %
+Memory Usage: 80.7 %
+Available Memory: 1507.17 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:55:08
+CPU Usage: 4.1 %
+Memory Usage: 80.4 %
+Available Memory: 1529.6 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:55:13
+CPU Usage: 3.3 %
+Memory Usage: 80.3 %
+Available Memory: 1537.66 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:55:18
+CPU Usage: 3.5 %
+Memory Usage: 79.9 %
+Available Memory: 1565.84 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:55:23
+CPU Usage: 1.6 %
+Memory Usage: 79.5 %
+Available Memory: 1595.7 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:55:28
+CPU Usage: 3.7 %
+Memory Usage: 79.2 %
+Available Memory: 1617.82 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:55:33
+CPU Usage: 2.1 %
+Memory Usage: 79.2 %
+Available Memory: 1623.04 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:55:38
+CPU Usage: 1.9 %
+Memory Usage: 80.0 %
+Available Memory: 1555.5 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:55:43
+CPU Usage: 1.5 %
+Memory Usage: 79.1 %
+Available Memory: 1626.17 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:55:48
+CPU Usage: 2.0 %
+Memory Usage: 78.5 %
+Available Memory: 1675.38 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:55:53
+CPU Usage: 0.8 %
+Memory Usage: 78.4 %
+Available Memory: 1684.99 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:55:58
+CPU Usage: 0.4 %
+Memory Usage: 78.4 %
+Available Memory: 1680.27 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:56:03
+CPU Usage: 0.4 %
+Memory Usage: 78.5 %
+Available Memory: 1673.01 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:56:08
+CPU Usage: 0.4 %
+Memory Usage: 78.7 %
+Available Memory: 1658.64 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:56:13
+CPU Usage: 1.0 %
+Memory Usage: 78.5 %
+Available Memory: 1673.24 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:56:18
+CPU Usage: 1.3 %
+Memory Usage: 78.5 %
+Available Memory: 1673.27 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:56:23
+CPU Usage: 0.4 %
+Memory Usage: 78.5 %
+Available Memory: 1671.64 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:56:28
+CPU Usage: 0.8 %
+Memory Usage: 78.5 %
+Available Memory: 1672.77 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:56:33
+CPU Usage: 0.6 %
+Memory Usage: 78.7 %
+Available Memory: 1660.81 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:56:38
+CPU Usage: 2.3 %
+Memory Usage: 78.8 %
+Available Memory: 1649.96 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:56:43
+CPU Usage: 4.1 %
+Memory Usage: 79.4 %
+Available Memory: 1606.81 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:56:48
+CPU Usage: 3.2 %
+Memory Usage: 79.1 %
+Available Memory: 1629.74 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:56:53
+CPU Usage: 1.6 %
+Memory Usage: 78.3 %
+Available Memory: 1692.67 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:56:58
+CPU Usage: 1.0 %
+Memory Usage: 78.6 %
+Available Memory: 1670.46 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:57:03
+CPU Usage: 4.3 %
+Memory Usage: 78.9 %
+Available Memory: 1647.8 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:57:08
+CPU Usage: 1.0 %
+Memory Usage: 78.2 %
+Available Memory: 1700.31 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:57:13
+CPU Usage: 1.0 %
+Memory Usage: 78.3 %
+Available Memory: 1694.07 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:57:18
+CPU Usage: 0.4 %
+Memory Usage: 78.2 %
+Available Memory: 1695.88 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:57:23
+CPU Usage: 0.6 %
+Memory Usage: 78.1 %
+Available Memory: 1705.45 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:57:28
+CPU Usage: 0.8 %
+Memory Usage: 77.6 %
+Available Memory: 1747.17 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:57:33
+CPU Usage: 0.6 %
+Memory Usage: 77.5 %
+Available Memory: 1754.58 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:57:38
+CPU Usage: 1.6 %
+Memory Usage: 80.0 %
+Available Memory: 1555.02 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:57:43
+CPU Usage: 1.4 %
+Memory Usage: 80.1 %
+Available Memory: 1554.18 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:57:48
+CPU Usage: 1.0 %
+Memory Usage: 79.9 %
+Available Memory: 1564.1 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:57:53
+CPU Usage: 1.0 %
+Memory Usage: 78.7 %
+Available Memory: 1661.12 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:57:58
+CPU Usage: 0.4 %
+Memory Usage: 78.6 %
+Available Memory: 1665.86 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:58:03
+CPU Usage: 0.2 %
+Memory Usage: 78.8 %
+Available Memory: 1649.16 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:58:08
+CPU Usage: 0.8 %
+Memory Usage: 77.8 %
+Available Memory: 1730.65 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:58:13
+CPU Usage: 0.2 %
+Memory Usage: 77.0 %
+Available Memory: 1793.28 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:58:18
+CPU Usage: 0.8 %
+Memory Usage: 76.9 %
+Available Memory: 1798.39 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:58:23
+CPU Usage: 1.4 %
+Memory Usage: 77.1 %
+Available Memory: 1784.25 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:58:28
+CPU Usage: 2.3 %
+Memory Usage: 77.0 %
+Available Memory: 1791.38 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:58:33
+CPU Usage: 0.2 %
+Memory Usage: 77.1 %
+Available Memory: 1781.04 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:58:38
+CPU Usage: 0.4 %
+Memory Usage: 77.3 %
+Available Memory: 1769.59 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:58:43
+CPU Usage: 0.0 %
+Memory Usage: 77.8 %
+Available Memory: 1729.96 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:58:48
+CPU Usage: 1.2 %
+Memory Usage: 77.6 %
+Available Memory: 1742.87 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:58:53
+CPU Usage: 1.2 %
+Memory Usage: 77.0 %
+Available Memory: 1792.43 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:58:58
+CPU Usage: 0.6 %
+Memory Usage: 76.8 %
+Available Memory: 1806.2 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:59:03
+CPU Usage: 0.4 %
+Memory Usage: 77.0 %
+Available Memory: 1795.08 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:59:08
+CPU Usage: 0.4 %
+Memory Usage: 77.1 %
+Available Memory: 1785.25 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:59:13
+CPU Usage: 0.4 %
+Memory Usage: 76.5 %
+Available Memory: 1831.55 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:59:18
+CPU Usage: 1.2 %
+Memory Usage: 76.3 %
+Available Memory: 1844.55 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:59:23
+CPU Usage: 0.6 %
+Memory Usage: 76.5 %
+Available Memory: 1832.77 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:59:28
+CPU Usage: 3.5 %
+Memory Usage: 76.4 %
+Available Memory: 1839.44 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:59:33
+CPU Usage: 9.7 %
+Memory Usage: 78.0 %
+Available Memory: 1710.8 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:59:38
+CPU Usage: 0.8 %
+Memory Usage: 78.1 %
+Available Memory: 1705.05 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:59:43
+CPU Usage: 1.8 %
+Memory Usage: 77.2 %
+Available Memory: 1779.18 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:59:48
+CPU Usage: 9.6 %
+Memory Usage: 79.0 %
+Available Memory: 1639.99 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:59:53
+CPU Usage: 4.5 %
+Memory Usage: 79.2 %
+Available Memory: 1622.02 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 12:59:58
+CPU Usage: 0.2 %
+Memory Usage: 78.1 %
+Available Memory: 1703.38 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:00:03
+CPU Usage: 0.8 %
+Memory Usage: 77.2 %
+Available Memory: 1776.02 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:00:08
+CPU Usage: 0.8 %
+Memory Usage: 77.2 %
+Available Memory: 1772.86 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:00:13
+CPU Usage: 0.6 %
+Memory Usage: 77.2 %
+Available Memory: 1780.29 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:00:18
+CPU Usage: 0.8 %
+Memory Usage: 77.3 %
+Available Memory: 1767.37 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:00:23
+CPU Usage: 0.6 %
+Memory Usage: 77.5 %
+Available Memory: 1752.16 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:00:28
+CPU Usage: 0.2 %
+Memory Usage: 77.2 %
+Available Memory: 1773.38 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:00:33
+CPU Usage: 0.8 %
+Memory Usage: 78.0 %
+Available Memory: 1717.61 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:00:38
+CPU Usage: 0.2 %
+Memory Usage: 77.8 %
+Available Memory: 1729.13 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:00:43
+CPU Usage: 0.0 %
+Memory Usage: 77.7 %
+Available Memory: 1734.92 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:00:48
+CPU Usage: 0.4 %
+Memory Usage: 77.9 %
+Available Memory: 1725.2 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:00:53
+CPU Usage: 0.2 %
+Memory Usage: 78.0 %
+Available Memory: 1715.78 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:00:58
+CPU Usage: 0.2 %
+Memory Usage: 77.8 %
+Available Memory: 1733.82 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:01:03
+CPU Usage: 0.8 %
+Memory Usage: 77.1 %
+Available Memory: 1781.71 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:01:08
+CPU Usage: 0.4 %
+Memory Usage: 77.1 %
+Available Memory: 1782.69 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:01:13
+CPU Usage: 0.2 %
+Memory Usage: 77.1 %
+Available Memory: 1788.16 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:01:18
+CPU Usage: 0.6 %
+Memory Usage: 77.2 %
+Available Memory: 1779.82 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:01:23
+CPU Usage: 0.4 %
+Memory Usage: 77.3 %
+Available Memory: 1768.57 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:01:28
+CPU Usage: 0.2 %
+Memory Usage: 77.0 %
+Available Memory: 1793.98 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:01:33
+CPU Usage: 0.8 %
+Memory Usage: 76.9 %
+Available Memory: 1799.53 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:01:38
+CPU Usage: 0.6 %
+Memory Usage: 76.8 %
+Available Memory: 1805.89 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:01:43
+CPU Usage: 1.2 %
+Memory Usage: 77.5 %
+Available Memory: 1754.13 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:01:48
+CPU Usage: 0.6 %
+Memory Usage: 77.6 %
+Available Memory: 1744.34 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:01:53
+CPU Usage: 0.6 %
+Memory Usage: 77.8 %
+Available Memory: 1733.15 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:01:58
+CPU Usage: 0.4 %
+Memory Usage: 77.5 %
+Available Memory: 1749.73 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:02:03
+CPU Usage: 0.8 %
+Memory Usage: 77.6 %
+Available Memory: 1748.32 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:02:08
+CPU Usage: 0.6 %
+Memory Usage: 77.5 %
+Available Memory: 1755.04 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:02:13
+CPU Usage: 0.8 %
+Memory Usage: 77.4 %
+Available Memory: 1760.77 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:02:18
+CPU Usage: 0.9 %
+Memory Usage: 77.0 %
+Available Memory: 1791.96 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:02:23
+CPU Usage: 0.4 %
+Memory Usage: 77.3 %
+Available Memory: 1772.08 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:02:28
+CPU Usage: 0.2 %
+Memory Usage: 77.0 %
+Available Memory: 1789.11 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:02:33
+CPU Usage: 1.0 %
+Memory Usage: 77.0 %
+Available Memory: 1790.63 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:02:38
+CPU Usage: 0.4 %
+Memory Usage: 77.1 %
+Available Memory: 1783.64 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:02:43
+CPU Usage: 1.4 %
+Memory Usage: 76.8 %
+Available Memory: 1806.6 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:02:48
+CPU Usage: 0.8 %
+Memory Usage: 76.8 %
+Available Memory: 1806.92 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:02:53
+CPU Usage: 0.4 %
+Memory Usage: 76.6 %
+Available Memory: 1823.42 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:02:58
+CPU Usage: 1.0 %
+Memory Usage: 76.3 %
+Available Memory: 1844.54 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:03:03
+CPU Usage: 1.6 %
+Memory Usage: 76.3 %
+Available Memory: 1845.84 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:03:08
+CPU Usage: 0.6 %
+Memory Usage: 76.0 %
+Available Memory: 1870.98 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:03:13
+CPU Usage: 0.6 %
+Memory Usage: 75.9 %
+Available Memory: 1880.71 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:03:18
+CPU Usage: 0.4 %
+Memory Usage: 75.9 %
+Available Memory: 1880.38 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:03:23
+CPU Usage: 2.3 %
+Memory Usage: 76.2 %
+Available Memory: 1857.46 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:03:28
+CPU Usage: 0.8 %
+Memory Usage: 75.9 %
+Available Memory: 1877.93 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:03:33
+CPU Usage: 0.8 %
+Memory Usage: 76.1 %
+Available Memory: 1862.47 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:03:38
+CPU Usage: 0.8 %
+Memory Usage: 76.3 %
+Available Memory: 1848.86 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:03:43
+CPU Usage: 0.2 %
+Memory Usage: 75.9 %
+Available Memory: 1875.38 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:03:48
+CPU Usage: 0.2 %
+Memory Usage: 76.1 %
+Available Memory: 1860.25 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:03:53
+CPU Usage: 0.8 %
+Memory Usage: 76.3 %
+Available Memory: 1846.12 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:03:58
+CPU Usage: 1.2 %
+Memory Usage: 76.2 %
+Available Memory: 1854.86 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:04:03
+CPU Usage: 1.0 %
+Memory Usage: 76.3 %
+Available Memory: 1844.86 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:04:08
+CPU Usage: 0.6 %
+Memory Usage: 76.4 %
+Available Memory: 1841.75 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:04:13
+CPU Usage: 0.4 %
+Memory Usage: 76.4 %
+Available Memory: 1841.01 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:04:18
+CPU Usage: 10.7 %
+Memory Usage: 73.9 %
+Available Memory: 2037.64 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:04:23
+CPU Usage: 1.2 %
+Memory Usage: 73.9 %
+Available Memory: 2030.2 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:04:28
+CPU Usage: 0.6 %
+Memory Usage: 73.7 %
+Available Memory: 2047.75 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:04:33
+CPU Usage: 0.8 %
+Memory Usage: 73.8 %
+Available Memory: 2041.47 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:04:38
+CPU Usage: 0.4 %
+Memory Usage: 73.7 %
+Available Memory: 2047.07 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:04:43
+CPU Usage: 0.8 %
+Memory Usage: 73.5 %
+Available Memory: 2061.48 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:04:48
+CPU Usage: 0.2 %
+Memory Usage: 73.7 %
+Available Memory: 2051.69 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:04:53
+CPU Usage: 0.8 %
+Memory Usage: 75.4 %
+Available Memory: 1916.98 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:04:58
+CPU Usage: 0.4 %
+Memory Usage: 75.0 %
+Available Memory: 1945.5 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:05:03
+CPU Usage: 0.6 %
+Memory Usage: 75.2 %
+Available Memory: 1930.78 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:05:08
+CPU Usage: 0.4 %
+Memory Usage: 75.3 %
+Available Memory: 1924.04 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:05:13
+CPU Usage: 1.2 %
+Memory Usage: 74.9 %
+Available Memory: 1952.36 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:05:18
+CPU Usage: 1.0 %
+Memory Usage: 75.2 %
+Available Memory: 1935.86 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:05:23
+CPU Usage: 0.8 %
+Memory Usage: 74.9 %
+Available Memory: 1959.6 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:05:28
+CPU Usage: 0.4 %
+Memory Usage: 74.8 %
+Available Memory: 1962.81 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:05:33
+CPU Usage: 0.4 %
+Memory Usage: 74.8 %
+Available Memory: 1962.25 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:05:38
+CPU Usage: 0.0 %
+Memory Usage: 75.0 %
+Available Memory: 1950.04 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:05:43
+CPU Usage: 0.2 %
+Memory Usage: 74.8 %
+Available Memory: 1967.44 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:05:48
+CPU Usage: 0.4 %
+Memory Usage: 75.0 %
+Available Memory: 1951.53 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:05:53
+CPU Usage: 0.2 %
+Memory Usage: 75.1 %
+Available Memory: 1940.07 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:05:58
+CPU Usage: 1.4 %
+Memory Usage: 74.9 %
+Available Memory: 1955.08 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:06:03
+CPU Usage: 0.2 %
+Memory Usage: 74.9 %
+Available Memory: 1955.66 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:06:08
+CPU Usage: 0.4 %
+Memory Usage: 74.8 %
+Available Memory: 1965.29 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:06:13
+CPU Usage: 0.4 %
+Memory Usage: 74.9 %
+Available Memory: 1956.09 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:06:18
+CPU Usage: 0.2 %
+Memory Usage: 74.7 %
+Available Memory: 1969.83 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:06:23
+CPU Usage: 0.4 %
+Memory Usage: 74.9 %
+Available Memory: 1953.99 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:06:28
+CPU Usage: 0.4 %
+Memory Usage: 74.7 %
+Available Memory: 1969.12 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:06:33
+CPU Usage: 0.6 %
+Memory Usage: 74.9 %
+Available Memory: 1955.22 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:06:38
+CPU Usage: 0.2 %
+Memory Usage: 75.1 %
+Available Memory: 1942.61 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:06:43
+CPU Usage: 2.1 %
+Memory Usage: 75.5 %
+Available Memory: 1907.8 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:06:48
+CPU Usage: 0.4 %
+Memory Usage: 75.6 %
+Available Memory: 1903.39 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:06:53
+CPU Usage: 0.2 %
+Memory Usage: 75.5 %
+Available Memory: 1910.71 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:06:58
+CPU Usage: 0.6 %
+Memory Usage: 75.5 %
+Available Memory: 1906.98 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:07:03
+CPU Usage: 0.6 %
+Memory Usage: 75.5 %
+Available Memory: 1911.41 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:07:08
+CPU Usage: 0.6 %
+Memory Usage: 75.7 %
+Available Memory: 1896.53 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:07:13
+CPU Usage: 16.5 %
+Memory Usage: 76.4 %
+Available Memory: 1840.44 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:07:18
+CPU Usage: 5.1 %
+Memory Usage: 76.3 %
+Available Memory: 1846.79 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:07:23
+CPU Usage: 1.6 %
+Memory Usage: 76.3 %
+Available Memory: 1846.88 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:07:28
+CPU Usage: 2.7 %
+Memory Usage: 76.1 %
+Available Memory: 1865.12 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:07:33
+CPU Usage: 1.8 %
+Memory Usage: 76.2 %
+Available Memory: 1853.09 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:07:38
+CPU Usage: 3.5 %
+Memory Usage: 76.2 %
+Available Memory: 1851.06 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:07:43
+CPU Usage: 3.7 %
+Memory Usage: 75.9 %
+Available Memory: 1879.12 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:07:48
+CPU Usage: 3.5 %
+Memory Usage: 75.9 %
+Available Memory: 1880.6 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:07:53
+CPU Usage: 1.2 %
+Memory Usage: 75.8 %
+Available Memory: 1884.46 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:07:58
+CPU Usage: 1.5 %
+Memory Usage: 75.7 %
+Available Memory: 1892.92 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:08:03
+CPU Usage: 9.3 %
+Memory Usage: 75.8 %
+Available Memory: 1882.08 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:08:08
+CPU Usage: 3.5 %
+Memory Usage: 75.4 %
+Available Memory: 1913.23 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:08:13
+CPU Usage: 13.3 %
+Memory Usage: 75.6 %
+Available Memory: 1900.73 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:08:18
+CPU Usage: 5.1 %
+Memory Usage: 75.7 %
+Available Memory: 1894.05 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:08:23
+CPU Usage: 12.7 %
+Memory Usage: 75.9 %
+Available Memory: 1878.86 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:08:28
+CPU Usage: 10.8 %
+Memory Usage: 75.6 %
+Available Memory: 1898.4 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:08:33
+CPU Usage: 12.9 %
+Memory Usage: 77.1 %
+Available Memory: 1783.56 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:08:38
+CPU Usage: 11.5 %
+Memory Usage: 78.5 %
+Available Memory: 1673.9 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:08:43
+CPU Usage: 12.7 %
+Memory Usage: 78.4 %
+Available Memory: 1680.41 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:08:48
+CPU Usage: 13.3 %
+Memory Usage: 78.4 %
+Available Memory: 1682.21 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:08:53
+CPU Usage: 12.9 %
+Memory Usage: 78.1 %
+Available Memory: 1707.45 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:08:58
+CPU Usage: 11.5 %
+Memory Usage: 78.3 %
+Available Memory: 1690.07 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:09:03
+CPU Usage: 11.5 %
+Memory Usage: 78.4 %
+Available Memory: 1685.82 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:09:08
+CPU Usage: 10.7 %
+Memory Usage: 78.1 %
+Available Memory: 1703.74 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:09:13
+CPU Usage: 12.7 %
+Memory Usage: 78.8 %
+Available Memory: 1650.96 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:09:18
+CPU Usage: 13.9 %
+Memory Usage: 78.9 %
+Available Memory: 1644.62 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:09:23
+CPU Usage: 13.2 %
+Memory Usage: 78.8 %
+Available Memory: 1648.36 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:09:28
+CPU Usage: 12.7 %
+Memory Usage: 78.7 %
+Available Memory: 1661.8 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:09:33
+CPU Usage: 12.2 %
+Memory Usage: 78.5 %
+Available Memory: 1675.81 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:09:38
+CPU Usage: 10.6 %
+Memory Usage: 78.8 %
+Available Memory: 1649.24 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:09:43
+CPU Usage: 23.9 %
+Memory Usage: 78.4 %
+Available Memory: 1681.73 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:09:48
+CPU Usage: 4.7 %
+Memory Usage: 78.3 %
+Available Memory: 1689.87 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:09:53
+CPU Usage: 7.9 %
+Memory Usage: 79.2 %
+Available Memory: 1617.23 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:09:58
+CPU Usage: 11.2 %
+Memory Usage: 79.4 %
+Available Memory: 1602.23 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:10:03
+CPU Usage: 0.6 %
+Memory Usage: 79.1 %
+Available Memory: 1631.37 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:10:08
+CPU Usage: 0.4 %
+Memory Usage: 78.9 %
+Available Memory: 1647.35 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:10:13
+CPU Usage: 0.8 %
+Memory Usage: 78.7 %
+Available Memory: 1660.0 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:10:18
+CPU Usage: 0.8 %
+Memory Usage: 78.6 %
+Available Memory: 1667.03 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:10:23
+CPU Usage: 0.6 %
+Memory Usage: 78.5 %
+Available Memory: 1671.78 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:10:28
+CPU Usage: 1.0 %
+Memory Usage: 78.3 %
+Available Memory: 1689.98 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:10:33
+CPU Usage: 0.6 %
+Memory Usage: 78.5 %
+Available Memory: 1673.07 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:10:38
+CPU Usage: 1.5 %
+Memory Usage: 78.6 %
+Available Memory: 1670.94 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:10:43
+CPU Usage: 0.2 %
+Memory Usage: 78.3 %
+Available Memory: 1688.35 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:10:48
+CPU Usage: 0.4 %
+Memory Usage: 78.4 %
+Available Memory: 1681.61 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:10:53
+CPU Usage: 0.2 %
+Memory Usage: 78.3 %
+Available Memory: 1688.29 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:10:58
+CPU Usage: 0.4 %
+Memory Usage: 78.5 %
+Available Memory: 1678.35 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:11:03
+CPU Usage: 0.2 %
+Memory Usage: 78.5 %
+Available Memory: 1676.84 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:11:08
+CPU Usage: 0.8 %
+Memory Usage: 78.4 %
+Available Memory: 1681.86 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:11:13
+CPU Usage: 0.8 %
+Memory Usage: 78.3 %
+Available Memory: 1691.33 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:11:18
+CPU Usage: 0.6 %
+Memory Usage: 78.4 %
+Available Memory: 1682.02 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:11:23
+CPU Usage: 0.0 %
+Memory Usage: 78.5 %
+Available Memory: 1677.46 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:11:28
+CPU Usage: 0.8 %
+Memory Usage: 78.2 %
+Available Memory: 1695.54 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:11:33
+CPU Usage: 0.8 %
+Memory Usage: 78.3 %
+Available Memory: 1691.61 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:11:38
+CPU Usage: 1.4 %
+Memory Usage: 78.2 %
+Available Memory: 1700.48 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:11:43
+CPU Usage: 1.0 %
+Memory Usage: 78.8 %
+Available Memory: 1651.53 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:11:48
+CPU Usage: 0.4 %
+Memory Usage: 78.8 %
+Available Memory: 1652.26 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:11:53
+CPU Usage: 1.2 %
+Memory Usage: 78.8 %
+Available Memory: 1653.29 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:11:58
+CPU Usage: 0.0 %
+Memory Usage: 78.7 %
+Available Memory: 1659.37 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:12:03
+CPU Usage: 1.9 %
+Memory Usage: 80.2 %
+Available Memory: 1544.53 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:12:08
+CPU Usage: 1.2 %
+Memory Usage: 80.3 %
+Available Memory: 1533.92 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:12:13
+CPU Usage: 1.2 %
+Memory Usage: 80.5 %
+Available Memory: 1520.77 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:12:18
+CPU Usage: 0.6 %
+Memory Usage: 79.8 %
+Available Memory: 1576.23 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:12:23
+CPU Usage: 0.4 %
+Memory Usage: 79.8 %
+Available Memory: 1575.91 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:12:28
+CPU Usage: 0.0 %
+Memory Usage: 79.8 %
+Available Memory: 1571.19 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:12:33
+CPU Usage: 0.4 %
+Memory Usage: 79.8 %
+Available Memory: 1576.59 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:12:38
+CPU Usage: 2.1 %
+Memory Usage: 79.9 %
+Available Memory: 1568.13 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:12:43
+CPU Usage: 1.6 %
+Memory Usage: 79.4 %
+Available Memory: 1601.45 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:12:48
+CPU Usage: 1.4 %
+Memory Usage: 79.6 %
+Available Memory: 1591.46 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:12:53
+CPU Usage: 0.4 %
+Memory Usage: 79.5 %
+Available Memory: 1597.14 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:12:58
+CPU Usage: 1.1 %
+Memory Usage: 79.6 %
+Available Memory: 1586.36 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:13:03
+CPU Usage: 0.6 %
+Memory Usage: 79.4 %
+Available Memory: 1609.0 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:13:08
+CPU Usage: 1.6 %
+Memory Usage: 79.1 %
+Available Memory: 1626.84 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:13:13
+CPU Usage: 0.6 %
+Memory Usage: 78.9 %
+Available Memory: 1643.27 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:13:18
+CPU Usage: 1.0 %
+Memory Usage: 78.9 %
+Available Memory: 1644.77 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:13:23
+CPU Usage: 0.6 %
+Memory Usage: 78.7 %
+Available Memory: 1657.32 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:13:28
+CPU Usage: 0.4 %
+Memory Usage: 78.8 %
+Available Memory: 1649.79 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:13:33
+CPU Usage: 0.8 %
+Memory Usage: 78.6 %
+Available Memory: 1670.74 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:13:38
+CPU Usage: 1.0 %
+Memory Usage: 78.6 %
+Available Memory: 1671.48 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:13:43
+CPU Usage: 0.4 %
+Memory Usage: 78.6 %
+Available Memory: 1669.46 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:13:48
+CPU Usage: 1.0 %
+Memory Usage: 78.4 %
+Available Memory: 1680.21 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:13:53
+CPU Usage: 0.4 %
+Memory Usage: 78.6 %
+Available Memory: 1668.39 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:13:58
+CPU Usage: 0.4 %
+Memory Usage: 78.7 %
+Available Memory: 1659.05 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:14:03
+CPU Usage: 0.6 %
+Memory Usage: 78.5 %
+Available Memory: 1676.13 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:14:08
+CPU Usage: 1.0 %
+Memory Usage: 78.5 %
+Available Memory: 1675.09 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:14:13
+CPU Usage: 0.4 %
+Memory Usage: 78.8 %
+Available Memory: 1649.42 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:14:18
+CPU Usage: 0.8 %
+Memory Usage: 78.8 %
+Available Memory: 1655.65 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:14:23
+CPU Usage: 0.2 %
+Memory Usage: 78.9 %
+Available Memory: 1647.57 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:14:28
+CPU Usage: 0.8 %
+Memory Usage: 78.9 %
+Available Memory: 1645.49 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:14:33
+CPU Usage: 0.4 %
+Memory Usage: 78.8 %
+Available Memory: 1653.96 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:14:38
+CPU Usage: 1.6 %
+Memory Usage: 78.7 %
+Available Memory: 1660.2 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:14:43
+CPU Usage: 2.9 %
+Memory Usage: 78.6 %
+Available Memory: 1666.04 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:14:48
+CPU Usage: 0.8 %
+Memory Usage: 78.5 %
+Available Memory: 1672.68 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:14:53
+CPU Usage: 4.8 %
+Memory Usage: 78.6 %
+Available Memory: 1664.45 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:14:58
+CPU Usage: 8.3 %
+Memory Usage: 78.6 %
+Available Memory: 1668.56 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:15:03
+CPU Usage: 1.6 %
+Memory Usage: 78.9 %
+Available Memory: 1641.15 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:15:08
+CPU Usage: 0.6 %
+Memory Usage: 78.8 %
+Available Memory: 1651.45 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:15:13
+CPU Usage: 1.4 %
+Memory Usage: 78.5 %
+Available Memory: 1675.09 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:15:18
+CPU Usage: 7.0 %
+Memory Usage: 79.8 %
+Available Memory: 1575.64 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:15:23
+CPU Usage: 0.6 %
+Memory Usage: 79.8 %
+Available Memory: 1574.86 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:15:28
+CPU Usage: 4.1 %
+Memory Usage: 80.1 %
+Available Memory: 1547.4 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:15:33
+CPU Usage: 0.6 %
+Memory Usage: 80.2 %
+Available Memory: 1544.04 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:15:38
+CPU Usage: 2.2 %
+Memory Usage: 80.2 %
+Available Memory: 1541.59 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:15:43
+CPU Usage: 2.3 %
+Memory Usage: 80.2 %
+Available Memory: 1546.45 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:15:48
+CPU Usage: 9.3 %
+Memory Usage: 80.1 %
+Available Memory: 1551.36 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:15:53
+CPU Usage: 0.8 %
+Memory Usage: 79.9 %
+Available Memory: 1565.44 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:15:58
+CPU Usage: 0.4 %
+Memory Usage: 80.0 %
+Available Memory: 1556.85 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:16:03
+CPU Usage: 3.3 %
+Memory Usage: 79.9 %
+Available Memory: 1567.66 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:16:08
+CPU Usage: 1.6 %
+Memory Usage: 80.0 %
+Available Memory: 1557.4 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:16:13
+CPU Usage: 0.4 %
+Memory Usage: 79.9 %
+Available Memory: 1565.82 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:16:18
+CPU Usage: 0.8 %
+Memory Usage: 80.0 %
+Available Memory: 1558.74 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:16:23
+CPU Usage: 0.2 %
+Memory Usage: 79.9 %
+Available Memory: 1564.45 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:16:28
+CPU Usage: 0.6 %
+Memory Usage: 79.5 %
+Available Memory: 1599.69 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:16:33
+CPU Usage: 0.2 %
+Memory Usage: 79.3 %
+Available Memory: 1612.19 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:16:38
+CPU Usage: 1.0 %
+Memory Usage: 79.4 %
+Available Memory: 1606.83 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:16:43
+CPU Usage: 1.8 %
+Memory Usage: 80.0 %
+Available Memory: 1560.01 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:16:48
+CPU Usage: 0.8 %
+Memory Usage: 79.9 %
+Available Memory: 1566.38 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:16:53
+CPU Usage: 0.0 %
+Memory Usage: 80.0 %
+Available Memory: 1559.86 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:16:58
+CPU Usage: 1.4 %
+Memory Usage: 79.9 %
+Available Memory: 1569.43 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:17:03
+CPU Usage: 0.6 %
+Memory Usage: 79.9 %
+Available Memory: 1563.36 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:17:08
+CPU Usage: 0.4 %
+Memory Usage: 79.8 %
+Available Memory: 1575.05 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:17:13
+CPU Usage: 0.2 %
+Memory Usage: 79.9 %
+Available Memory: 1565.13 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:17:18
+CPU Usage: 0.6 %
+Memory Usage: 79.7 %
+Available Memory: 1578.18 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:17:23
+CPU Usage: 0.4 %
+Memory Usage: 79.9 %
+Available Memory: 1562.56 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:17:28
+CPU Usage: 0.4 %
+Memory Usage: 80.0 %
+Available Memory: 1561.49 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:17:33
+CPU Usage: 0.4 %
+Memory Usage: 79.8 %
+Available Memory: 1572.98 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:17:38
+CPU Usage: 0.8 %
+Memory Usage: 80.0 %
+Available Memory: 1561.5 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:17:43
+CPU Usage: 0.8 %
+Memory Usage: 80.0 %
+Available Memory: 1560.82 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:17:48
+CPU Usage: 0.6 %
+Memory Usage: 79.6 %
+Available Memory: 1587.59 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:17:53
+CPU Usage: 3.7 %
+Memory Usage: 79.3 %
+Available Memory: 1611.21 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:17:58
+CPU Usage: 0.4 %
+Memory Usage: 79.4 %
+Available Memory: 1603.41 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:18:03
+CPU Usage: 0.4 %
+Memory Usage: 79.3 %
+Available Memory: 1609.54 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:18:08
+CPU Usage: 4.1 %
+Memory Usage: 78.8 %
+Available Memory: 1655.79 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:18:13
+CPU Usage: 0.6 %
+Memory Usage: 79.1 %
+Available Memory: 1629.37 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:18:18
+CPU Usage: 1.0 %
+Memory Usage: 79.0 %
+Available Memory: 1639.74 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:18:23
+CPU Usage: 0.8 %
+Memory Usage: 79.1 %
+Available Memory: 1629.17 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:18:29
+CPU Usage: 8.9 %
+Memory Usage: 79.2 %
+Available Memory: 1619.56 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:18:33
+CPU Usage: 0.6 %
+Memory Usage: 78.7 %
+Available Memory: 1658.41 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:18:38
+CPU Usage: 0.4 %
+Memory Usage: 78.9 %
+Available Memory: 1644.21 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:18:43
+CPU Usage: 1.0 %
+Memory Usage: 78.9 %
+Available Memory: 1645.08 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:18:48
+CPU Usage: 1.8 %
+Memory Usage: 78.9 %
+Available Memory: 1644.64 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:18:53
+CPU Usage: 0.4 %
+Memory Usage: 78.9 %
+Available Memory: 1643.37 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:18:58
+CPU Usage: 0.4 %
+Memory Usage: 79.0 %
+Available Memory: 1633.3 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:19:03
+CPU Usage: 0.6 %
+Memory Usage: 78.9 %
+Available Memory: 1643.53 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:19:08
+CPU Usage: 0.4 %
+Memory Usage: 79.0 %
+Available Memory: 1636.78 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:19:14
+CPU Usage: 0.6 %
+Memory Usage: 79.3 %
+Available Memory: 1611.11 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:19:19
+CPU Usage: 0.8 %
+Memory Usage: 79.1 %
+Available Memory: 1625.63 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:19:23
+CPU Usage: 0.8 %
+Memory Usage: 77.8 %
+Available Memory: 1733.32 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:19:28
+CPU Usage: 4.3 %
+Memory Usage: 77.5 %
+Available Memory: 1755.46 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:19:33
+CPU Usage: 0.2 %
+Memory Usage: 77.7 %
+Available Memory: 1734.43 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:19:38
+CPU Usage: 2.7 %
+Memory Usage: 77.7 %
+Available Memory: 1737.19 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:19:44
+CPU Usage: 0.8 %
+Memory Usage: 77.5 %
+Available Memory: 1750.79 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:19:49
+CPU Usage: 0.4 %
+Memory Usage: 77.5 %
+Available Memory: 1757.05 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:19:54
+CPU Usage: 0.2 %
+Memory Usage: 77.5 %
+Available Memory: 1750.01 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:19:59
+CPU Usage: 1.0 %
+Memory Usage: 77.8 %
+Available Memory: 1727.53 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:20:04
+CPU Usage: 3.5 %
+Memory Usage: 78.2 %
+Available Memory: 1701.66 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:20:09
+CPU Usage: 1.6 %
+Memory Usage: 78.0 %
+Available Memory: 1714.44 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:20:14
+CPU Usage: 2.3 %
+Memory Usage: 78.0 %
+Available Memory: 1714.04 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:20:19
+CPU Usage: 1.9 %
+Memory Usage: 78.1 %
+Available Memory: 1708.97 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:20:24
+CPU Usage: 3.1 %
+Memory Usage: 77.9 %
+Available Memory: 1719.42 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:20:29
+CPU Usage: 13.0 %
+Memory Usage: 78.1 %
+Available Memory: 1709.95 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:20:34
+CPU Usage: 2.9 %
+Memory Usage: 78.0 %
+Available Memory: 1713.25 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:20:39
+CPU Usage: 1.6 %
+Memory Usage: 78.0 %
+Available Memory: 1715.02 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:20:44
+CPU Usage: 3.7 %
+Memory Usage: 78.1 %
+Available Memory: 1703.4 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:20:49
+CPU Usage: 2.1 %
+Memory Usage: 78.1 %
+Available Memory: 1706.17 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:20:54
+CPU Usage: 1.0 %
+Memory Usage: 78.0 %
+Available Memory: 1713.95 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:20:59
+CPU Usage: 13.0 %
+Memory Usage: 78.3 %
+Available Memory: 1691.76 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:21:04
+CPU Usage: 11.9 %
+Memory Usage: 78.3 %
+Available Memory: 1689.55 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:21:09
+CPU Usage: 12.7 %
+Memory Usage: 78.6 %
+Available Memory: 1669.71 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:21:14
+CPU Usage: 17.4 %
+Memory Usage: 78.3 %
+Available Memory: 1689.34 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:21:19
+CPU Usage: 10.8 %
+Memory Usage: 79.2 %
+Available Memory: 1620.26 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:21:24
+CPU Usage: 11.9 %
+Memory Usage: 81.3 %
+Available Memory: 1456.38 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:21:29
+CPU Usage: 37.5 %
+Memory Usage: 82.8 %
+Available Memory: 1343.19 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:21:34
+CPU Usage: 10.9 %
+Memory Usage: 82.0 %
+Available Memory: 1404.53 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:21:39
+CPU Usage: 18.5 %
+Memory Usage: 81.2 %
+Available Memory: 1466.11 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:21:44
+CPU Usage: 11.9 %
+Memory Usage: 82.2 %
+Available Memory: 1384.13 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:21:49
+CPU Usage: 12.6 %
+Memory Usage: 82.3 %
+Available Memory: 1376.09 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:21:54
+CPU Usage: 15.3 %
+Memory Usage: 81.8 %
+Available Memory: 1419.12 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:21:59
+CPU Usage: 19.0 %
+Memory Usage: 80.6 %
+Available Memory: 1508.35 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:22:04
+CPU Usage: 9.1 %
+Memory Usage: 81.1 %
+Available Memory: 1470.06 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:22:09
+CPU Usage: 7.5 %
+Memory Usage: 81.5 %
+Available Memory: 1440.21 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:22:14
+CPU Usage: 17.7 %
+Memory Usage: 81.8 %
+Available Memory: 1417.61 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:22:19
+CPU Usage: 7.2 %
+Memory Usage: 83.3 %
+Available Memory: 1304.49 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:22:24
+CPU Usage: 11.1 %
+Memory Usage: 83.4 %
+Available Memory: 1297.24 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:22:29
+CPU Usage: 13.1 %
+Memory Usage: 84.5 %
+Available Memory: 1204.27 MB
+Application: Unreachable
+--------------------------------
+Time: 2026-11-13 13:22:34
+CPU Usage: 22.3 %
+Memory Usage: 85.2 %
+Available Memory: 1153.76 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:22:38
+CPU Usage: 29.1 %
+Memory Usage: 89.4 %
+Available Memory: 824.84 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:22:43
+CPU Usage: 83.4 %
+Memory Usage: 92.9 %
+Available Memory: 551.77 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:22:48
+CPU Usage: 17.9 %
+Memory Usage: 93.4 %
+Available Memory: 512.2 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:22:53
+CPU Usage: 5.7 %
+Memory Usage: 91.7 %
+Available Memory: 643.58 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:22:58
+CPU Usage: 6.0 %
+Memory Usage: 92.0 %
+Available Memory: 626.49 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:23:03
+CPU Usage: 5.2 %
+Memory Usage: 92.5 %
+Available Memory: 583.02 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:23:08
+CPU Usage: 11.7 %
+Memory Usage: 93.7 %
+Available Memory: 493.33 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:23:13
+CPU Usage: 12.3 %
+Memory Usage: 93.4 %
+Available Memory: 512.32 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:23:18
+CPU Usage: 12.5 %
+Memory Usage: 94.5 %
+Available Memory: 430.89 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:23:23
+CPU Usage: 13.5 %
+Memory Usage: 95.7 %
+Available Memory: 333.21 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:23:28
+CPU Usage: 12.5 %
+Memory Usage: 96.4 %
+Available Memory: 280.02 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:23:33
+CPU Usage: 9.0 %
+Memory Usage: 96.6 %
+Available Memory: 265.15 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:23:38
+CPU Usage: 11.1 %
+Memory Usage: 97.0 %
+Available Memory: 237.23 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:23:43
+CPU Usage: 9.9 %
+Memory Usage: 96.8 %
+Available Memory: 246.86 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:23:48
+CPU Usage: 9.7 %
+Memory Usage: 96.0 %
+Available Memory: 309.05 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:23:53
+CPU Usage: 8.9 %
+Memory Usage: 96.0 %
+Available Memory: 313.89 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:23:58
+CPU Usage: 10.1 %
+Memory Usage: 95.9 %
+Available Memory: 317.45 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:24:03
+CPU Usage: 8.9 %
+Memory Usage: 96.3 %
+Available Memory: 287.79 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:24:08
+CPU Usage: 16.4 %
+Memory Usage: 96.7 %
+Available Memory: 260.04 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:24:13
+CPU Usage: 24.6 %
+Memory Usage: 97.1 %
+Available Memory: 225.14 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:24:18
+CPU Usage: 13.8 %
+Memory Usage: 96.8 %
+Available Memory: 246.2 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:24:23
+CPU Usage: 6.2 %
+Memory Usage: 97.2 %
+Available Memory: 215.25 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:24:28
+CPU Usage: 7.7 %
+Memory Usage: 96.5 %
+Available Memory: 269.14 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:24:33
+CPU Usage: 8.6 %
+Memory Usage: 95.0 %
+Available Memory: 388.99 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:24:38
+CPU Usage: 13.8 %
+Memory Usage: 94.0 %
+Available Memory: 468.96 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:24:43
+CPU Usage: 13.6 %
+Memory Usage: 94.1 %
+Available Memory: 461.75 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:24:48
+CPU Usage: 11.9 %
+Memory Usage: 95.0 %
+Available Memory: 390.66 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:24:53
+CPU Usage: 5.5 %
+Memory Usage: 94.9 %
+Available Memory: 398.47 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:24:58
+CPU Usage: 10.4 %
+Memory Usage: 95.2 %
+Available Memory: 372.42 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:25:03
+CPU Usage: 10.1 %
+Memory Usage: 95.5 %
+Available Memory: 354.0 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:25:08
+CPU Usage: 10.9 %
+Memory Usage: 96.0 %
+Available Memory: 309.48 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:25:13
+CPU Usage: 2.9 %
+Memory Usage: 96.3 %
+Available Memory: 287.71 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:25:18
+CPU Usage: 11.6 %
+Memory Usage: 96.6 %
+Available Memory: 267.7 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:25:23
+CPU Usage: 2.9 %
+Memory Usage: 96.3 %
+Available Memory: 287.63 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:25:28
+CPU Usage: 22.3 %
+Memory Usage: 94.3 %
+Available Memory: 442.1 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:25:33
+CPU Usage: 18.5 %
+Memory Usage: 91.8 %
+Available Memory: 636.3 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:25:38
+CPU Usage: 14.1 %
+Memory Usage: 92.1 %
+Available Memory: 616.26 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:25:43
+CPU Usage: 12.3 %
+Memory Usage: 91.7 %
+Available Memory: 649.41 MB
+Application: Healthy
+--------------------------------
+Time: 2026-11-13 13:25:48
+CPU Usage: 11.3 %
+Memory Usage: 91.7 %
+Available Memory: 648.89 MB
+Application: Healthy
+--------------------------------

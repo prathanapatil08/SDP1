@@ -1,0 +1,3 @@
+timestamp,cpu_usage,memory_usage,application_status,ai_status,severity,root_cause,recommended_action
+2026-10-30 15:46:44,18.7,94.1,Healthy,Normal,Warning,High memory utilization,Identify memory-intensive processes and check available RAM.
+2026-10-30 15:54:09,2026-10-30 15:54:07,21.4,87.0,Healthy,Normal,Normal,No major issue identified,Continue monitoring system performance.
