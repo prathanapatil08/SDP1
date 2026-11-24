@@ -1,18 +1,10 @@
 
-import os
-import sys
-import tempfile
-from pathlib import Path
-
 import pandas as pd
+from pathlib import Path
 from sklearn.ensemble import IsolationForest
 
 # Project paths
 BASE_DIR = Path(__file__).resolve().parent.parent
-if str(BASE_DIR) not in sys.path:
-    sys.path.insert(0, str(BASE_DIR))
-
-from app import incident_management
 
 DATA_FILE = BASE_DIR / "data" / "metrics.csv"
 OUTPUT_FILE = BASE_DIR / "data" / "anomaly_results.csv"
@@ -26,29 +18,13 @@ if "timestamp" not in data.columns:
 features = [
     "cpu_usage",
     "memory_usage",
-    "available_memory_mb",
-    "disk_usage",
-    "network_sent_bytes_per_sec",
-    "network_received_bytes_per_sec",
-    "response_time_ms",
-    "api_error_rate",
-    "request_throughput_rps",
-    "application_available",
-    "application_process_memory_percent",
+    "available_memory_mb"
 ]
 
 # Check available data
 if len(data) < 100:
     raise ValueError(
         "Collect at least 100 readings before training the model."
-    )
-
-missing_features = [feature for feature in features if feature not in data.columns]
-if missing_features:
-    raise ValueError(
-        "Metrics are missing multivariate features: "
-        + ", ".join(missing_features)
-        + ". Start the updated monitor and collect new readings."
     )
 
 # Convert features into numeric values
@@ -61,8 +37,7 @@ data = data.dropna(subset=features).copy()
 
 if len(data) < 100:
     raise ValueError(
-        "Not enough complete multivariate readings. Collect at least 100 "
-        "readings with all advanced monitoring metrics available."
+        "Not enough valid metric readings. Collect more data."
     )
 
 existing_results = None
@@ -86,8 +61,7 @@ if new_data.empty:
     print("Existing anomaly results were preserved.")
     raise SystemExit(0)
 
-# Train across the complete feature vector so correlated resource and
-# application signals contribute to each prediction.
+# Train using readings from the normal collection period
 model = IsolationForest(
     n_estimators=100,
     contamination=0.05,
@@ -113,28 +87,14 @@ new_data["status"] = new_data["prediction"].map({
     -1: "Anomaly"
 })
 
-for _, anomaly in new_data[new_data["status"] == "Anomaly"].iterrows():
-    incident_management.record_anomaly_detection(anomaly.to_dict())
-
 # Append only new timestamps so historical results remain intact.
 if OUTPUT_FILE.exists():
     existing_columns = list(pd.read_csv(OUTPUT_FILE, nrows=0).columns)
-    output_columns = existing_columns + [
-        column for column in new_data.columns if column not in existing_columns
-    ]
-    if output_columns != existing_columns:
-        history = existing_results.reindex(columns=output_columns)
-        with tempfile.NamedTemporaryFile(
-            "w",
-            newline="",
-            encoding="utf-8",
-            dir=OUTPUT_FILE.parent,
-            delete=False,
-        ) as file:
-            history.to_csv(file, index=False)
-            temporary_file = file.name
-        os.replace(temporary_file, OUTPUT_FILE)
-    new_data = new_data.reindex(columns=output_columns)
+    if existing_columns != list(new_data.columns):
+        raise ValueError(
+            "Existing anomaly result columns do not match the current output schema; "
+            "refusing to alter historical results."
+        )
     new_data.to_csv(OUTPUT_FILE, mode="a", header=False, index=False)
 else:
     new_data.to_csv(OUTPUT_FILE, index=False)

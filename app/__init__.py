@@ -1,1 +1,0 @@
-"""SDP application modules."""
