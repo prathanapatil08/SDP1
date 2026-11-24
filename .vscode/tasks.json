@@ -1,0 +1,95 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Start SDP API",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"app/main.py"
+			],
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Install SDP dependencies",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"-m",
+				"pip",
+				"install",
+				"flask",
+				"psutil",
+				"pandas",
+				"streamlit",
+				"streamlit-autorefresh",
+				"scikit-learn"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Start SDP Dashboard",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"-m",
+				"streamlit",
+				"run",
+				"dashboard/app.py",
+				"--server.address",
+				"127.0.0.1",
+				"--server.port",
+				"8501"
+			],
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Start Testing Control Panel",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"-m",
+				"streamlit",
+				"run",
+				"testing_website/test_app.py",
+				"--server.address",
+				"127.0.0.1",
+				"--server.port",
+				"8502"
+			],
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Start SDP Monitor",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"app/monitor.py"
+			],
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Verify SDP Services",
+			"type": "shell",
+			"command": "cmd",
+			"args": [
+				"/d",
+				"/c",
+				"curl.exe -sS http://127.0.0.1:5000/health && echo. && curl.exe -I -sS http://127.0.0.1:8501"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
